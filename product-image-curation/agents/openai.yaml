@@ -1,0 +1,6 @@
+interface:
+  display_name: "商品图片整理与侵权初筛"
+  short_description: "整理供应商商品图并初筛印花风险"
+  default_prompt: "Use $product-image-curation to organize the selected supplier product folders and pre-screen visible trademark or copyright risks."
+policy:
+  allow_implicit_invocation: true
